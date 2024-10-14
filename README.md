@@ -1,9 +1,9 @@
 # Aula de CRUD -SQLite🚨
 
-##Objetivo:
+## Objetivo:
 Criar conexão com banco de dados e realizar operações basicas (CRUD).
 
-###Tecnologias:
+### Tecnologias:
 - ORM: SQLAlchemy
 - Banco de dados: SQLite
 
